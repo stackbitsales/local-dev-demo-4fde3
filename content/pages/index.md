@@ -20,7 +20,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/careers.jpg
+      url: /images/hero-1.png
       altText: Image alt text
       caption: Image caption
     styles:
