@@ -30,7 +30,7 @@ sections:
         margin:
           - mt-0
           - mb-0
-          - ml-0
+          - ml-14
           - mr-0
         padding:
           - pt-12
